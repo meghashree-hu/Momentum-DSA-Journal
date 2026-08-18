@@ -10,5 +10,17 @@
     "lastSolvedAt": "2026-07-12T18:18:52.027Z",
     "attempts": 1,
     "totalDurationSeconds": 515
+  },
+  {
+    "key": "leetcode::valid anagram",
+    "title": "Valid Anagram",
+    "platform": "LeetCode",
+    "difficulty": "Easy",
+    "path": "LeetCode/Easy/valid-anagram.md",
+    "url": "https://leetcode.com/problems/valid-anagram/",
+    "firstSolvedAt": "2026-08-18T18:54:07.289Z",
+    "lastSolvedAt": "2026-08-18T18:54:07.289Z",
+    "attempts": 1,
+    "totalDurationSeconds": 692
   }
 ]
