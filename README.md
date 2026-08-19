@@ -2,13 +2,14 @@
 
 _Kept up to date automatically by [Momentum](https://github.com) whenever a problem is solved — no manual Git commands needed._
 
-**Total problems solved:** 2
+**Total problems solved:** 3
 
-Easy 1 · Medium 1
-LeetCode 2
+Easy 1 · Medium 1 · Unknown 1
+LeetCode 3
 
 | Last solved | Problem | Platform | Difficulty |
 |---|---|---|---|
+| 2026-08-19 | [Group Anagrams](LeetCode/Unknown/group-anagrams.md) | LeetCode | Unknown |
 | 2026-08-18 | [Valid Anagram](LeetCode/Easy/valid-anagram.md) | LeetCode | Easy |
 | 2026-07-12 | [Zigzag Conversion](LeetCode/Medium/zigzag-conversion.md) | LeetCode | Medium |
 
