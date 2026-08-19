@@ -46,5 +46,17 @@
     "lastSolvedAt": "2026-08-19T19:26:33.924Z",
     "attempts": 1,
     "totalDurationSeconds": 525
+  },
+  {
+    "key": "leetcode::valid palindrome",
+    "title": "Valid Palindrome",
+    "platform": "LeetCode",
+    "difficulty": "Unknown",
+    "path": "LeetCode/Unknown/valid-palindrome.md",
+    "url": "https://leetcode.com/problems/valid-palindrome/submissions/1944445205/",
+    "firstSolvedAt": "2026-08-19T19:27:55.442Z",
+    "lastSolvedAt": "2026-08-19T19:27:55.442Z",
+    "attempts": 1,
+    "totalDurationSeconds": 540
   }
 ]
