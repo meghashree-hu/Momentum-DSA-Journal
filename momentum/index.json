@@ -28,11 +28,11 @@
     "title": "Group Anagrams",
     "platform": "LeetCode",
     "difficulty": "Unknown",
-    "path": "LeetCode/Unknown/group-anagrams.md",
+    "path": "LeetCode/Medium/group-anagrams.md",
     "url": "https://leetcode.com/problems/group-anagrams/submissions/2112759770/",
     "firstSolvedAt": "2026-08-19T13:55:32.188Z",
-    "lastSolvedAt": "2026-08-19T13:55:32.188Z",
-    "attempts": 1,
-    "totalDurationSeconds": 717
+    "lastSolvedAt": "2026-08-19T13:55:06.915Z",
+    "attempts": 2,
+    "totalDurationSeconds": 1431
   }
 ]

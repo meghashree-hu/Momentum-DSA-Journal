@@ -9,7 +9,7 @@ LeetCode 3
 
 | Last solved | Problem | Platform | Difficulty |
 |---|---|---|---|
-| 2026-08-19 | [Group Anagrams](LeetCode/Unknown/group-anagrams.md) | LeetCode | Unknown |
+| 2026-08-19 | [Group Anagrams](LeetCode/Medium/group-anagrams.md) (2x) | LeetCode | Unknown |
 | 2026-08-18 | [Valid Anagram](LeetCode/Easy/valid-anagram.md) | LeetCode | Easy |
 | 2026-07-12 | [Zigzag Conversion](LeetCode/Medium/zigzag-conversion.md) | LeetCode | Medium |
 
