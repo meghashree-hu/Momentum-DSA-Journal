@@ -58,5 +58,17 @@
     "lastSolvedAt": "2026-08-19T19:27:55.442Z",
     "attempts": 1,
     "totalDurationSeconds": 540
+  },
+  {
+    "key": "leetcode::3sum",
+    "title": "3Sum",
+    "platform": "LeetCode",
+    "difficulty": "Unknown",
+    "path": "LeetCode/Unknown/3sum.md",
+    "url": "https://leetcode.com/problems/3sum/submissions/2113223639/",
+    "firstSolvedAt": "2026-08-19T20:34:08.184Z",
+    "lastSolvedAt": "2026-08-19T20:34:08.184Z",
+    "attempts": 1,
+    "totalDurationSeconds": 997
   }
 ]

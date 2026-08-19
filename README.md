@@ -2,13 +2,14 @@
 
 _Kept up to date automatically by [Momentum](https://github.com) whenever a problem is solved — no manual Git commands needed._
 
-**Total problems solved:** 5
+**Total problems solved:** 6
 
-Easy 1 · Medium 1 · Unknown 3
-LeetCode 5
+Easy 1 · Medium 1 · Unknown 4
+LeetCode 6
 
 | Last solved | Problem | Platform | Difficulty |
 |---|---|---|---|
+| 2026-08-19 | [3Sum](LeetCode/Unknown/3sum.md) | LeetCode | Unknown |
 | 2026-08-19 | [Valid Palindrome](LeetCode/Unknown/valid-palindrome.md) | LeetCode | Unknown |
 | 2026-08-19 | [Longest Consecutive Sequence](LeetCode/Unknown/longest-consecutive-sequence.md) | LeetCode | Unknown |
 | 2026-08-19 | [Group Anagrams](LeetCode/Medium/group-anagrams.md) (2x) | LeetCode | Unknown |
